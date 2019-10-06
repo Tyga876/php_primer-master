@@ -1,3 +1,5 @@
+
+
 <?php 
      $title = "Date and Time Manipulation";
     include 'includes/header.php' ?>
@@ -20,3 +22,5 @@
         print date("j of F Y, \a\\t g.i a", time());
     ?>
  <?php require 'includes/footer.php' ?>
+ 
+ 

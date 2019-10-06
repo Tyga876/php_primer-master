@@ -1,3 +1,5 @@
+
+
 <?php 
      $title = "IF-ELSE Statements";
     include 'includes/header.php' ?>
@@ -16,7 +18,7 @@
         else{
             echo '<h3 style="color: red">YOU HAVE FAILED</h3>';
         }
-        $grade = 'C';
+        $grade = 'A';
         // If-Else IF-Else
         if($grade == 'A'){
             echo '<h2 style="color: green">YOU ARE A SUPERSTAR!</h2>';

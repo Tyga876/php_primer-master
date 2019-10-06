@@ -1,3 +1,5 @@
+
+
 <?php 
      $title = "While Loop";
     include 'includes/header.php' ?>
@@ -29,3 +31,4 @@
     ?>
 
 <?php require 'includes/footer.php' ?>
+

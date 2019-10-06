@@ -1,4 +1,5 @@
 
+
 <?php 
     $title = "Arrays and Printouts";
     include 'includes/header.php' 
@@ -24,3 +25,5 @@
         }
     ?>
  <?php require 'includes/footer.php' ?>
+ 
+ 

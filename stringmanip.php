@@ -1,3 +1,6 @@
+
+    
+
 <?php 
      $title = "PHP String Manipulations";
     include 'includes/header.php' ?>
@@ -7,7 +10,7 @@
     //Concatenation of strings
         $phrase1 = "student who came late";
         $phrase2 = "in class, stand with Rock";
-        $name = "trevoir williams";
+        $name = "Tyrone Taylor";
         echo $phrase1 . ", named Tiffany, ". $phrase2;
         echo '<br/>';
         echo '<hr/>';
@@ -39,3 +42,5 @@
         echo ' Replace string with another: '. str_replace("stand", "sit", $phrase2 ) . '<br/>';
     ?>
  <?php require 'includes/footer.php' ?>
+ 
+ 
